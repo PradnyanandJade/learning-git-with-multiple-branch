@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+    cout<<"not main branch : "<<endl;
     for(int i=0;i<5;i++){
         cout<<i;
     }
